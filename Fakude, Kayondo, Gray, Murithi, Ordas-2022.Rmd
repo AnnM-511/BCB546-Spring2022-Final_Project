@@ -61,6 +61,11 @@ This current study is important because it improves our understanding of the int
 
 ### The data can be found in this link:
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200081#sec015
+The raw data files used are in the repository
+  1. s2_data.CSV - This files contains the Differentially expressed genes     file
+  2. GC.CSV - This contain GC content percentage
+  3. Q20.CSV - This contains quality scores at 20%
+  4. Q30.CSV - This contains quality scores at 30%
 
 ### Final Project Repository Link:
 https://github.com/cerenordas/BCB546-Spring2022-Final_Project
@@ -70,6 +75,19 @@ https://github.com/cerenordas/BCB546-Spring2022-Final_Project
 # Summary of our Replication
 
 ### Figure 1:
+
+- Replication of this figure was not possible sisnce we did not have the raw data and therefore could not get the information on all the data that was produces for DE analysis
+
+- However, using the final results of the DEGs, I generated four plots showing the relationship of the Gene leghth to log2ration in infected and non-infected groups and a plot of the relationship of RPKM in infected and non infected group. I also looked at the distribution of gene_length across the DEG genes
+
+- Overall, although we did no have the raw data I felt these plots helped to shed light into the important of normalization of gene counts (RPKM) during DE analysis. The plots show that normalization clears the confounding effect of gene sizes that would skewer the analysis towards larger genes.  
+
+- The codes of the plots produced are available in this file named 'Juypter_notebook_Final_project'. 
+
+- The images are shown saved in the file named 'Figures compared'. 
+
+- The two files also contains plots that were produced based on quality scores produced from FASTQC of the raw data
+
 -------
 
 ## Figure 2:
