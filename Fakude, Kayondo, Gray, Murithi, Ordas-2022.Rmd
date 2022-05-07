@@ -70,8 +70,6 @@ The raw data files used are in the repository
 ### Final Project Repository Link:
 https://github.com/cerenordas/BCB546-Spring2022-Final_Project
 
-
-
 # Summary of our Replication
 
 ### Figure 1:
