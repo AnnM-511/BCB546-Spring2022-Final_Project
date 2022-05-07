@@ -13,8 +13,11 @@ All data used is included in the Data file.
 
 All the Markdowns to run the codes are included in the Code file. 
 
+The replicated Figures are in the Figure file.
+
 Fakude, Kayondo, Gray, Murithi, Ordas-2022.Rmd file in the repository introduces the original paper, explains the technical details of our replication of analyses and summarizes our replication of the original results.
 
 `Paper_reproduced.pdf` file is the original paper that we replicated results from.
 
 `Final Group Project_presentation.pptx` is our PowerPoint presentation file.
+'
